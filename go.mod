@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/antonmedv/expr v1.9.0
 	github.com/argoproj/notifications-engine v0.3.1-0.20220129012210-32519f8f68ec
-	github.com/argoproj/pkg v0.9.0
+	github.com/argoproj/pkg v0.13.6
 	github.com/aws/aws-sdk-go-v2/config v1.13.1
 	github.com/aws/aws-sdk-go-v2/service/cloudwatch v1.15.0
 	github.com/aws/aws-sdk-go-v2/service/elasticloadbalancingv2 v1.16.0
@@ -27,8 +27,8 @@ require (
 	github.com/sirupsen/logrus v1.8.1
 	github.com/soheilhy/cmux v0.1.5
 	github.com/spaceapegames/go-wavefront v1.8.1
-	github.com/spf13/cobra v1.3.0
-	github.com/stretchr/testify v1.7.0
+	github.com/spf13/cobra v1.5.0
+	github.com/stretchr/testify v1.7.2
 	github.com/tj/assert v0.0.3
 	github.com/valyala/fasttemplate v1.2.1
 	google.golang.org/genproto v0.0.0-20211208223120-3a66f561d7aa
@@ -86,7 +86,7 @@ require (
 	github.com/emicklei/go-restful v2.9.5+incompatible // indirect
 	github.com/evanphx/json-patch v4.12.0+incompatible // indirect
 	github.com/exponent-io/jsonpath v0.0.0-20151013193312-d6023ce2651d // indirect
-	github.com/felixge/httpsnoop v1.0.1 // indirect
+	github.com/felixge/httpsnoop v1.0.3 // indirect
 	github.com/form3tech-oss/jwt-go v3.2.3+incompatible // indirect
 	github.com/go-errors/errors v1.0.1 // indirect
 	github.com/go-logr/logr v1.2.0 // indirect
@@ -147,7 +147,7 @@ require (
 	go.starlark.net v0.0.0-20200306205701-8dd3e2ee1dd5 // indirect
 	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5 // indirect
 	golang.org/x/mod v0.5.1 // indirect
-	golang.org/x/net v0.0.0-20220121210141-e204ce36a2ba // indirect
+	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd // indirect
 	golang.org/x/oauth2 v0.0.0-20211104180415-d3ed0bb246c8 // indirect
 	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9 // indirect
 	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211 // indirect
@@ -161,7 +161,7 @@ require (
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 	k8s.io/cluster-bootstrap v0.0.0 // indirect
 	k8s.io/component-helpers v0.23.1 // indirect
 	k8s.io/gengo v0.0.0-20210813121822-485abfe95c7c // indirect
